@@ -9,8 +9,8 @@ Soy un apasionado del desarrollo de software enfocado en Frontend / Backend. Me 
 ### 🛠️ Tecnologías y Herramientas
 Aquí puedes ver las tecnologías con las que trabajo habitualmente:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
